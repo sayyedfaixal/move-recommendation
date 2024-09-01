@@ -10,6 +10,13 @@ This project is a movie recommendation system built using the TMDB dataset, whic
 - **Content-Based Recommendation**: Utilized cosine similarity to calculate the similarity between movies, allowing for effective content-based recommendations.
 - **Frontend**: Built the frontend using the Streamlit framework, providing an interactive and user-friendly interface for the recommendation system.
 
+## Libraries Used
+
+- **Numpy**: For numerical operations and handling arrays.
+- **Pandas**: For data manipulation and preprocessing.
+- **Scikit-Learn**: For implementing cosine similarity and other machine learning utilities.
+- **Streamlit**: For building the interactive frontend of the application.
+
 ## How to Run the Project
 
 1. **Clone the Repository**:
